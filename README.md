@@ -1,2 +1,2 @@
 # This is my Local Repo
-# This is to test pull command
+# This is to test merge conflicts
